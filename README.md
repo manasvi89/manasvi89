@@ -4,3 +4,8 @@
 ### 📫 How to reach me: dobariyamansvi@gmail.com
 
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=manasvi89&theme=black)](https://github.com/manasvi89" />
+</p>
+
+
